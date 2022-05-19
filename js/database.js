@@ -1,64 +1,63 @@
 // Banco de dados dos produtos
-
 const data = [
-  {
-    id: 1,
-    img: "../img/jaqueta.svg",
-    nameItem: "Lightweight Jacket",
-    description:
-      "Adicione um pouco de energia ao seu guarda-roupa de inverno com esta jaqueta vibrante...",
-    value: 100,
-    addCart: "Adicionar ao carrinho",
-    tag: ["Camisetas"],
-  },
-  {
-    id: 2,
-    img: "../img/gorro.svg",
-    nameItem: "Black Hat",
-    description:
-      "O gorro Next.js chegou! Esta beldade bordada tem um ajuste confortável que garante que...",
-    value: 100,
-    addCart: "Adicionar ao carrinho",
-    tag: ["Acessórios"],
-  },
-  {
-    id: 3,
-    img: "../img/mascara.svg",
-    nameItem: "Mask",
-    description:
-      "Esta máscara facial durável é feita de duas camadas de tecido tratado e possui presilhas...",
-    value: 40,
-    addCart: "Adicionar ao carrinho",
-    tag: ["Acessórios"],
-  },
-  {
-    id: 4,
-    img: "../img/camiseta_preta.svg",
-    nameItem: "T-Shirt",
-    description:
-      "Esta t-shirt é imprescindível no seu guarda-roupa, combinando o caimento intemporal de...",
-    value: 100,
-    addCart: "Adicionar ao carrinho",
-    tag: ["Camisetas"],
-  },
-  {
-    id: 5,
-    img: "../img/camiseta_branca.svg",
-    nameItem: "Short-Sleeve T-Shirt",
-    description:
-      "Agora você encontrou a camiseta básica do seu guarda-roupa. É feito de um mais grosso...",
-    value: 100,
-    addCart: "Adicionar ao carrinho",
-    tag: ["Camisetas"],
-  },
-  {
-    id: 6,
-    img: "../img/moletom.svg",
-    nameItem: "Champion Packable Jacket",
-    description:
-      "Proteja-se dos elementos com esta jaqueta embalável Champion. Esta jaqueta de poliést...",
-    value: 100,
-    addCart: "Adicionar ao carrinho",
-    tag: ["Camisetas"],
-  },
-];
+    {
+      id: 1,
+      img: "./img/01.png",
+      nameItem: "Vegeta e Trunks - dragon ball super",
+      description:
+        "Este é o primeiro Trunks que aparece na série Dragon Ball...",
+      value: 100,
+      addCart: "Adicionar ao carrinho",
+      tag: ["Camisetas"],
+    },
+    {
+      id: 2,
+      img: "./img/02.png",
+      nameItem: "homem de ferro mark V",
+      description:
+        "Mark V. E a maleta se transforma em uma armadura básica mas poderosa para o Homem de Ferro...",
+      value: 100,
+      addCart: "Adicionar ao carrinho",
+      tag: ["Acessórios"],
+    },
+    {
+      id: 3,
+      img: "./img/03.png",
+      nameItem: "Batman: A Origem da Justiça",
+      description:
+        "Batman v Superman: Dawn of Justice é um filme de super-herói americano de 2016...",
+      value: 40,
+      addCart: "Adicionar ao carrinho",
+      tag: ["Acessórios"],
+    },
+    {
+      id: 4,
+      img: "./img/04.png",
+      nameItem: "Baby Yoda",
+      description:
+        "Grogu, inicialmente chamado de A criança, popularmente conhecido como Baby Yoda...",
+      value: 100,
+      addCart: "Adicionar ao carrinho",
+      tag: ["Camisetas"],
+    },
+    {
+      id: 5,
+      img: "./img/05.png",
+      nameItem: "Black SuperMan",
+      description:
+        "Assim como no Universo Estendido da DC, o Superman também morreu nas HQs, num dos arcos mais marcantes do herói na década de 90...",
+      value: 100,
+      addCart: "Adicionar ao carrinho",
+      tag: ["Camisetas"],
+    },
+    {
+      id: 6,
+      img: "./img/06.png",
+      nameItem: "Itachi Uchiha",
+      description:
+        "Itachi Uchiha é um personagem fictício lendário do Clã Uchiha da série de anime e mangá Naruto criada por Masashi Kishimoto...",
+      value: 100,
+      addCart: "Adicionar ao carrinho",
+      tag: ["Camisetas"],
+    },
+]
